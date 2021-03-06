@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BBVdrMtmABaghMGgrkOFSJpCdIo13EV0HmGE2YZQWhGd8HmVzqowD5X9sKrd/gUsqYT5geQ0p703LcwSea2Xfg==",
+  "dgSpecHash": "P4RsKO7w6UNv9NCC7kO8RLTu3dymySXEBgKCEs0gAMQzNfaq2EO9a6W0A71JppVvrbdcxFA0kfSUSQ5ngVn5oA==",
   "success": true,
-  "projectFilePath": "E:\\AT\\ProektITkariera\\Modul13\\Материали към курса-20210228\\03-version-control-systems\\GitExercise\\GitExercise.csproj",
+  "projectFilePath": "E:\\Test4\\Calculator\\GitExercise.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Agi\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512"
   ],

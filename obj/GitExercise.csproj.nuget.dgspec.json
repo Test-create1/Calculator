@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\AT\\ProektITkariera\\Modul13\\Материали към курса-20210228\\03-version-control-systems\\GitExercise\\GitExercise.csproj": {}
+    "E:\\Test4\\Calculator\\GitExercise.csproj": {}
   },
   "projects": {
-    "E:\\AT\\ProektITkariera\\Modul13\\Материали към курса-20210228\\03-version-control-systems\\GitExercise\\GitExercise.csproj": {
+    "E:\\Test4\\Calculator\\GitExercise.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\AT\\ProektITkariera\\Modul13\\Материали към курса-20210228\\03-version-control-systems\\GitExercise\\GitExercise.csproj",
+        "projectUniqueName": "E:\\Test4\\Calculator\\GitExercise.csproj",
         "projectName": "GitExercise",
-        "projectPath": "E:\\AT\\ProektITkariera\\Modul13\\Материали към курса-20210228\\03-version-control-systems\\GitExercise\\GitExercise.csproj",
+        "projectPath": "E:\\Test4\\Calculator\\GitExercise.csproj",
         "packagesPath": "C:\\Users\\Agi\\.nuget\\packages\\",
-        "outputPath": "E:\\AT\\ProektITkariera\\Modul13\\Материали към курса-20210228\\03-version-control-systems\\GitExercise\\obj\\",
+        "outputPath": "E:\\Test4\\Calculator\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Agi\\AppData\\Roaming\\NuGet\\NuGet.Config",
