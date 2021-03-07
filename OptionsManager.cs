@@ -24,5 +24,11 @@ namespace GitExercise
         {
             Console.WriteLine($"{a} - {b} = {a - b}");
         }
+        public static void Division(double a, double b)
+        {
+            Console.WriteLine($"{a} / {b} = {a/b}");
+        }
+
+       
     }
 }
